@@ -1,2 +1,0 @@
-alert("danger");
-alert("mrroshan");

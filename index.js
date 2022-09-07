@@ -1,5 +1,4 @@
-console.log("Hello and Nameste hope you guys are fine.");
-var i;
-for (i = 0; i < 5; i++) {
-  console.log(i);
-}
+const students = ["akash", "bibek", "shyam"];
+console.log(students);
+
+console.log(students.length());
