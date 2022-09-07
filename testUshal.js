@@ -1,10 +1,7 @@
-const arr1 = ['ushal','shyam','bibek']
+const arr1 = [2, 3, 4, 5, 6, 7];
 
-const test = () => {
+const test = (item) => {
+  return item % 2 === 0;
+};
 
-    return (
-        {arr1}
-    );
-}
-
-export default test;
+console(text(arr1));
